@@ -22,7 +22,9 @@ comCommande : docker compose version [si on obtient une réponse, avec une versi
 
 Installation de scoop pour installer Symfony plus facilement.
 
-Installation de Symfony version 7.2.3 depuis le Terminal de VSCode
+Installation de Symfony version 7.2.3 depuis le Terminal de VSCode :  
+symfony new app --version="7.2.x" --webapp
+
 
 Installation de Docker-compose 
 
