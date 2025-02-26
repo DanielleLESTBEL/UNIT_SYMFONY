@@ -26,5 +26,8 @@ Installation de Symfony version 7.2.3 depuis le Terminal de VSCode :
 symfony new app --version="7.2.x" --webapp
 
 
-Installation de Docker-compose 
+Installation de Docker-compose :  
+docker-compose up -d --build
+
+
 
